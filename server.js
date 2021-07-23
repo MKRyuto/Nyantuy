@@ -1,5 +1,4 @@
 const { ApolloServer } = require('apollo-server');
-
 const { sequelize } = require('./models');
 
 // The GraphQL schema
